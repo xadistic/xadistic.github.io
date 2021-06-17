@@ -1,0 +1,6 @@
+#Jekyll Config
+name: thecheating.party
+description: various blogging articles about cheating
+url: "xadistic.github.io"
+markdown: GFM
+remote_theme: P0WEX/Gesko
